@@ -1,0 +1,4 @@
+vite.config.js
+netlify.toml
+node_modules/
+.eslintrc.json
